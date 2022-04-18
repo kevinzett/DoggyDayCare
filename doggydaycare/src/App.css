@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* navigationOptions: {
+  headerBackground: (
+    <LinearGradient
+      colors={['#a13388', '#10356c']}
+      style={{ flex: 1 }}
+      start={{x: 0, y: 0}}
+      end={{x: 1, y: 0}}
+    />
+  ),
+  headerTitleStyle: { color: '#fff' },
+} */
+
+.App-header {
+  background-color: #d1d6e0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+.headertextforwelcome {
+
+  min-height: 100px;
+  
+ 
+}
+
+.buttonforwelcome {
+ 
+}

@@ -1,0 +1,61 @@
+.headertext {
+    
+    color: rgb(73, 72, 72);
+    padding: 2em;
+    border: 1px solid rgb(197, 185, 185);
+    margin: 0.5em;
+    display: inline block;
+    position: relative;
+    border-radius: 20px;
+    background-color: rgb(221, 205, 205);
+    font-size: 40px;
+    
+}
+
+.welcomeimg {
+    border-radius: 30px;
+}
+
+.headertexttwo {
+    
+    color: rgb(121, 114, 114);
+    padding: 0.2em;
+    margin: 0.5em;
+    display: inline block;
+    position: relative;
+    left: 0px
+    
+}
+
+.welcomebutton {
+    height: 100px;
+    width: 400px;
+    font-size: 24px;
+    font-style: italic;
+    background-color: rgb(221, 205, 205);
+    border-radius: 20px;
+    border: none;
+}
+
+.welcomebutton:hover {
+    background-color: rgb(224, 224, 224);
+    height: 110px;
+    width: 440px;
+    color:rgb(121, 114, 114);
+    
+}
+
+.parent {
+    
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    
+  }
+
+  .child {
+    display: inline-block;
+    
+    vertical-align: middle;
+    
+  }
